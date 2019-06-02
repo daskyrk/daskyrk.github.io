@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T19:57:52+08:00</updated><id>http://localhost:4000/</id><title type="html">daskyrk</title><subtitle>每一处都是未曾遇见的风景</subtitle><author><name>true</name></author><entry><title type="html">Welcome my friend</title><link href="http://localhost:4000/2019/06/02/hello.html" rel="alternate" type="text/html" title="Welcome my friend" /><published>2019-06-02T00:00:00+08:00</published><updated>2019-06-02T00:00:00+08:00</updated><id>http://localhost:4000/2019/06/02/hello</id><content type="html" xml:base="http://localhost:4000/2019/06/02/hello.html">&lt;h1 id=&quot;welcome&quot;&gt;Welcome&lt;/h1&gt;
+
+&lt;p&gt;刚过去的六一过的可好吗？&lt;/p&gt;
+
+&lt;p&gt;先试试这个主题&lt;/p&gt;
+
+&lt;h2 id=&quot;引用&quot;&gt;引用&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;我愿你是个谎，从未出现南墙&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;show-me-the-code&quot;&gt;show me the code&lt;/h2&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'john'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'，world'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- 原来这里也写html也会解析 --&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;boot-area&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+    
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;首页&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/tags.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;标签&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/timeline.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;历史&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;关于&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/friendLink.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;li&amp;gt;&lt;/span&gt;友链&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;图片&quot;&gt;图片&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/800/420&quot; alt=&quot;random image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;返回首页&quot;&gt;&lt;a href=&quot;/&quot;&gt;返回首页&lt;/a&gt;&lt;/h2&gt;</content><author><name>daskyrk</name></author><category term="welcome" /><category term="intro" /><summary type="html">Welcome 刚过去的六一过的可好吗？ 先试试这个主题 引用 我愿你是个谎，从未出现南墙 show me the code function hello() { const name = 'john'; console.log(name + '，world'); return true; } hello(); &amp;lt;div id=&quot;boot-area&quot;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;a href=&quot;/&quot;&amp;gt;&amp;lt;li&amp;gt;首页&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;/tags.html&quot;&amp;gt;&amp;lt;li&amp;gt;标签&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;/timeline.html&quot;&amp;gt;&amp;lt;li&amp;gt;历史&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;/about.html&quot;&amp;gt;&amp;lt;li&amp;gt;关于&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;/friendLink.html&quot;&amp;gt;&amp;lt;li&amp;gt;友链&amp;lt;/li&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; 图片 返回首页</summary></entry></feed>
